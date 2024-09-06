@@ -16,7 +16,7 @@ A simple and efficient application for generating invoices.
 
    ```bash
    git clone https://github.com/nimba005/invoice-generator.git
-   ```bash
+   
    cd invoice-generator
-   ```bash
+   
    npm install
