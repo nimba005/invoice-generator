@@ -3,8 +3,8 @@
         <div class="card shadow-lg">
             <div id="invoice-content" class="card-body">
                 <div class="text-center mb-3">
-                    <h4 class="fw-semibold">Quirkweb Studios</h4>
-                    <p class="small">Nairobi, Kenya</p>
+                    <h4 class="fw-semibold">Pheliz Investment</h4>
+                    <p class="small">Kisumu, Kenya</p>
                 </div>
                 <div class="border-bottom pb-3 mb-3">
                     <h2 class="h6">Invoice</h2>
