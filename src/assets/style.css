@@ -1,0 +1,101 @@
+/* Body and Background Styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f7f7f7; /* Light gray background */
+    margin: 0;
+    padding: 0;
+}
+
+/* Container for the form */
+#app {
+    text-align: center;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading */
+h1 {
+    font-size: 2.5em;
+    color: #3e64ff; /* Blue heading */
+    margin-bottom: 20px;
+}
+
+/* Input fields */
+input, select {
+    padding: 10px;
+    font-size: 1em;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 80%;
+}
+
+/* Buttons */
+button {
+    padding: 10px 20px;
+    font-size: 1.1em;
+    color: white;
+    background-color: #3e64ff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+button:hover {
+    background-color: #2a46d4;
+}
+
+/* Invoice Box */
+.invoice-preview {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Company Info */
+.invoice-preview h3 {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.invoice-preview p {
+    margin: 5px 0;
+    font-size: 1.1em;
+}
+
+/* Adding a soft gray background */
+#app input[type="text"],
+#app input[type="email"],
+#app input[type="number"] {
+    background-color: #f5f5f5;
+}
+
+/* Style for items and table */
+.items-table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.items-table th, .items-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.items-table th {
+    background-color: #f2f2f2;
+}
+
+/* Footer */
+.footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #777;
+}

@@ -111,7 +111,5 @@ export default {
 </script>
 
 <style scoped>
-.card {
-    max-width: 700px;
-}
+@import "../assets/style.css";
 </style>
