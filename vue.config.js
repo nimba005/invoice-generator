@@ -1,5 +1,5 @@
 module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/<invoice-generator>/'  // Replace with your GitHub repository name
+    ? '/invoice-generator/'  // Ensure this matches your GitHub repository name exactly
     : '/'
 };
